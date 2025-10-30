@@ -1,0 +1,13 @@
+************* Module inventory_system
+inventory_system.py:25:0: C0301: Line too long (104/100) (line-too-long)
+inventory_system.py:84:0: C0301: Line too long (113/100) (line-too-long)
+inventory_system.py:70:4: W0603: Using the global statement (global-statement)
+inventory_system.py:110:18: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+inventory_system.py:144:10: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+inventory_system.py:145:10: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+inventory_system.py:146:10: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+inventory_system.py:148:10: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+
+------------------------------------------------------------------
+Your code has been rated at 9.22/10 (previous run: 9.22/10, +0.00)
+
